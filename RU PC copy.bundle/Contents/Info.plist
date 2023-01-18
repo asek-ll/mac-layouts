@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.rupccopy</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>RU PC copy</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_RU PC copy</key>
@@ -15,7 +15,7 @@
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..rupccopy</string>
+		<string>org.sil.ukelele.keyboardlayout.rupccopy.rupccopy</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
 	</dict>
